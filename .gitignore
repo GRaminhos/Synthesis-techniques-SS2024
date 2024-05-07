@@ -1,0 +1,13 @@
+# macOS system files
+*.DS_Store
+
+# audio file formats 
+*.wav 
+*.wave 
+*.aif 
+*.aiff
+*.mp3 
+*.mp4 
+*.m4a 
+*.flac 
+*.wma 
